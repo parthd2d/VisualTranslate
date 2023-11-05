@@ -75,7 +75,7 @@ Visual Translate is made possible thanks to the power of Google ML Kit and the v
 
 ## Feedback
 
-We value your feedback and would love to hear your suggestions and comments. Please open [issues](/issues) for bug reports and feature requests.
+We value your feedback and would love to hear your suggestions and comments. Please open [issues](https://github.com/parthd2d/VisualTranslate/issues) for bug reports and feature requests.
 
 Enjoy instant text translation with Visual Translate!
 
